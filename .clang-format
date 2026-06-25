@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+Language: Cpp
+Standard: c++17
+IndentWidth: 4
+ColumnLimit: 100
+SortIncludes: true
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+PointerAlignment: Left
+ReflowComments: true
